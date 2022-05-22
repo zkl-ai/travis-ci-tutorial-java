@@ -4,7 +4,7 @@
 [![Code Coverage](https://codecov.io/github/zkl-ai/travis-ci-tutorial-java/coverage.svg)](https://codecov.io/gh/zkl-ai/travis-ci-tutorial-java)
 
 # travis-ci-tutorial-java
-Just to learn how to use travis-ci in a java project!
+Just to learn how to use travis-ci in a java project!!
 
 This is a working minimal example of how to use Travis CI (and Codecov) with Java on GitHub.
 
